@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1bf3634ae9597db4f952eef6e267a8dc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laser: {fileID: 100000, guid: 81dd9c2c21c850d499df8a9eed448dd9, type: 2}
+  - rocket: {fileID: 100000, guid: b80957cb8cf34e245b09f4a9602f3eee, type: 2}
+  - specialshot: {fileID: 100000, guid: ffa671a23b0f3f9448ed59e7c07b7f68, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
